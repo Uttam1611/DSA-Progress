@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Uttam1611/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Uttam1611/DSA-Progress/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Uttam1611/DSA-Progress/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Uttam1611/DSA-Progress/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
