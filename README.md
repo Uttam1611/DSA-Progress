@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Uttam1611/DSA-Progress/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Uttam1611/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0088-merge-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Uttam1611/DSA-Progress/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Uttam1611/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Uttam1611/DSA-Progress/tree/master/0125-valid-palindrome) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Uttam1611/DSA-Progress/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
