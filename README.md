@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Uttam1611/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Uttam1611/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Uttam1611/DSA-Progress/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Uttam1611/DSA-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Uttam1611/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Uttam1611/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Uttam1611/DSA-Progress/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Uttam1611/DSA-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
