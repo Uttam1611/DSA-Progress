@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0068-text-justification](https://github.com/Uttam1611/DSA-Progress/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam1611/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Uttam1611/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Uttam1611/DSA-Progress/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Uttam1611/DSA-Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Uttam1611/DSA-Progress/tree/master/0217-contains-duplicate) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
