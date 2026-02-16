@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam1611/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Uttam1611/DSA-Progress/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Uttam1611/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Uttam1611/DSA-Progress/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/Uttam1611/DSA-Progress/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Uttam1611/DSA-Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Uttam1611/DSA-Progress/tree/master/0217-contains-duplicate) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Uttam1611/DSA-Progress/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
 ## Binary Search
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Uttam1611/DSA-Progress/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
