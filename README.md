@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Uttam1611/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0652-find-duplicate-subtrees](https://github.com/Uttam1611/DSA-Progress/tree/master/0652-find-duplicate-subtrees) |
 | [0763-partition-labels](https://github.com/Uttam1611/DSA-Progress/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Stack
@@ -180,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
+## Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Uttam1611/DSA-Progress/tree/master/0652-find-duplicate-subtrees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Uttam1611/DSA-Progress/tree/master/0652-find-duplicate-subtrees) |
+## Binary Tree
+|  |
+| ------- |
+| [0652-find-duplicate-subtrees](https://github.com/Uttam1611/DSA-Progress/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
