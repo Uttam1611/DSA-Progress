@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Uttam1611/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Uttam1611/DSA-Progress/tree/master/0763-partition-labels) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Uttam1611/DSA-Progress/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Divide and Conquer
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uttam1611/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0394-decode-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Uttam1611/DSA-Progress/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## String Matching
 |  |
