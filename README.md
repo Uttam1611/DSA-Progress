@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Uttam1611/DSA-Progress/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Uttam1611/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Uttam1611/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Uttam1611/DSA-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Uttam1611/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0652-find-duplicate-subtrees](https://github.com/Uttam1611/DSA-Progress/tree/master/0652-find-duplicate-subtrees) |
 | [0763-partition-labels](https://github.com/Uttam1611/DSA-Progress/tree/master/0763-partition-labels) |
