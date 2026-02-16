@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Uttam1611/DSA-Progress/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Uttam1611/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Uttam1611/DSA-Progress/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/Uttam1611/DSA-Progress/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Uttam1611/DSA-Progress/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Uttam1611/DSA-Progress/tree/master/0125-valid-palindrome) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Uttam1611/DSA-Progress/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Uttam1611/DSA-Progress/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Uttam1611/DSA-Progress/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Uttam1611/DSA-Progress/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
