@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Uttam1611/DSA-Progress/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Uttam1611/DSA-Progress/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/Uttam1611/DSA-Progress/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Uttam1611/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
