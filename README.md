@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0763-partition-labels](https://github.com/Uttam1611/DSA-Progress/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Uttam1611/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Uttam1611/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/Uttam1611/DSA-Progress/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Uttam1611/DSA-Progress/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Uttam1611/DSA-Progress/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Uttam1611/DSA-Progress/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Uttam1611/DSA-Progress/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Uttam1611/DSA-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
