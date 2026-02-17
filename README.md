@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Uttam1611/DSA-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uttam1611/DSA-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Uttam1611/DSA-Progress/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uttam1611/DSA-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Uttam1611/DSA-Progress/tree/master/0238-product-of-array-except-self) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
