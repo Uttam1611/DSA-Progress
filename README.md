@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Uttam1611/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Uttam1611/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Uttam1611/DSA-Progress/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Uttam1611/DSA-Progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam1611/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Uttam1611/DSA-Progress/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Uttam1611/DSA-Progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Uttam1611/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Uttam1611/DSA-Progress/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Uttam1611/DSA-Progress/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Uttam1611/DSA-Progress/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Uttam1611/DSA-Progress/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Uttam1611/DSA-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Uttam1611/DSA-Progress/tree/master/0217-contains-duplicate) |
