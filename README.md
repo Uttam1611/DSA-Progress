@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/Uttam1611/DSA-Progress/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Uttam1611/DSA-Progress/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/Uttam1611/DSA-Progress/tree/master/0367-valid-perfect-square) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/Uttam1611/DSA-Progress/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
