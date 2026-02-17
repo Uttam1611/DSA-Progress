@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Uttam1611/DSA-Progress/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Uttam1611/DSA-Progress/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Uttam1611/DSA-Progress/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Uttam1611/DSA-Progress/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Uttam1611/DSA-Progress/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
