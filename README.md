@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Uttam1611/DSA-Progress/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Uttam1611/DSA-Progress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Uttam1611/DSA-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Uttam1611/DSA-Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Uttam1611/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Uttam1611/DSA-Progress/tree/master/0056-merge-intervals) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Uttam1611/DSA-Progress/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Uttam1611/DSA-Progress/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Uttam1611/DSA-Progress/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Uttam1611/DSA-Progress/tree/master/0202-happy-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Uttam1611/DSA-Progress/tree/master/0048-rotate-image) |
 ## Union-Find
 |  |
 | ------- |
