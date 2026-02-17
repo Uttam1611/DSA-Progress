@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Uttam1611/DSA-Progress/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Uttam1611/DSA-Progress/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam1611/DSA-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0528-random-pick-with-weight](https://github.com/Uttam1611/DSA-Progress/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Uttam1611/DSA-Progress/tree/master/0149-max-points-on-a-line) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Uttam1611/DSA-Progress/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
