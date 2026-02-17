@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/Uttam1611/DSA-Progress/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Uttam1611/DSA-Progress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Uttam1611/DSA-Progress/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Uttam1611/DSA-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Uttam1611/DSA-Progress/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Uttam1611/DSA-Progress/tree/master/0053-maximum-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Uttam1611/DSA-Progress/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Uttam1611/DSA-Progress/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Uttam1611/DSA-Progress/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Uttam1611/DSA-Progress/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Uttam1611/DSA-Progress/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Uttam1611/DSA-Progress/tree/master/0128-longest-consecutive-sequence) |
