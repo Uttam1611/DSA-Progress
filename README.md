@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0852-peak-index-in-a-mountain-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Uttam1611/DSA-Progress/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0977-squares-of-a-sorted-array) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Uttam1611/DSA-Progress/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Uttam1611/DSA-Progress/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Two Pointers
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Uttam1611/DSA-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Uttam1611/DSA-Progress/tree/master/0658-find-k-closest-elements) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Uttam1611/DSA-Progress/tree/master/1705-maximum-number-of-eaten-apples) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Uttam1611/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/Uttam1611/DSA-Progress/tree/master/0763-partition-labels) |
+| [1705-maximum-number-of-eaten-apples](https://github.com/Uttam1611/DSA-Progress/tree/master/1705-maximum-number-of-eaten-apples) |
 ## Simulation
 |  |
 | ------- |
