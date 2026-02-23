@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Uttam1611/DSA-Progress/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Uttam1611/DSA-Progress/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Uttam1611/DSA-Progress/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Uttam1611/DSA-Progress/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Uttam1611/DSA-Progress/tree/master/0041-first-missing-positive) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Uttam1611/DSA-Progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Uttam1611/DSA-Progress/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Uttam1611/DSA-Progress/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Uttam1611/DSA-Progress/tree/master/0278-first-bad-version) |
