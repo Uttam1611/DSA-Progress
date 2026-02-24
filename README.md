@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Uttam1611/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Uttam1611/DSA-Progress/tree/master/0394-decode-string) |
 ## Greedy
 |  |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Uttam1611/DSA-Progress/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Uttam1611/DSA-Progress/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
